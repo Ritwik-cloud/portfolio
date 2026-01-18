@@ -6,7 +6,7 @@ export const DATA = {
   initials: "Rb",
   url: "https://dillion.io",
   location: "Alipurduar West Bengal",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "",
   description:
     "Frontend Web Developer",
   summary:
