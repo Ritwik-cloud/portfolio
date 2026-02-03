@@ -8,9 +8,9 @@ export const DATA = {
   location: "Alipurduar West Bengal",
   locationLink: "",
   description:
-    "Frontend Web Developer",
+    " A Frontend Web Developer",
   summary:
-    "As a front-end web developer, I build interactive web apps using React.js, Next.js, TypeScript, Redux, ShadCN and Tailwind CSS, with a strong focus on performance, scalable dashboards, and clean UI.",
+    " I build interactive web apps using React.js, Next.js, TypeScript, Redux, ShadCN and Tailwind CSS, with a strong focus on performance, scalable dashboards, and clean UI.",
   avatarUrl: "/me.png",
   skills: [
     "React.js",
@@ -101,7 +101,7 @@ export const DATA = {
   projects: [
     {
       title: "JobsHub",
-      href: "https://chatcollect.com",
+      href: "https://jobs-hub-op6u.vercel.app",
       dates: "Nov 2025 - Dec 2025",
       active: true,
         description:'JobsHub is a full-featured job portal web app built with Next.js, React, Redux Toolkit, and TypeScript. I designed and developed both the Recruiter Dashboard and Candidate Dashboard, enabling recruiters to post and manage jobs and job seekers to find and apply to roles. I prioritized clean, responsive UI components and efficient state management with Redux Toolkit, creating a smooth experience across devices. By focusing on performance optimizations and intuitive workflows, the application demonstrates practical solutions for real-world hiring scenarios.',
@@ -116,7 +116,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://jobs-hub-op6u.vercel.app",
           icon: <Icons.globe className="size-3" />,
         },
          {
@@ -131,7 +131,7 @@ export const DATA = {
     },
     {
       title: "Medease",
-      href: "https://magicui.design",
+      href: "",
       dates: "July 2025 - Oct 2025",
       active: true,
       description:
@@ -147,7 +147,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
         {
