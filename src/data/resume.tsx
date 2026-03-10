@@ -104,12 +104,12 @@ export const DATA = {
       href: "https://jobs-hub-op6u.vercel.app",
       dates: "Nov 2025 - Dec 2025",
       active: true,
-        description:'JobsHub is a full-featured job portal web app built with Next.js, React, Redux Toolkit, and TypeScript. I designed and developed both the Recruiter Dashboard and Candidate Dashboard, enabling recruiters to post and manage jobs and job seekers to find and apply to roles. I prioritized clean, responsive UI components and efficient state management with Redux Toolkit, creating a smooth experience across devices. By focusing on performance optimizations and intuitive workflows, the application demonstrates practical solutions for real-world hiring scenarios.',
+        description:'JobsHub is a job portal built with Next.js, React, Redux Toolkit, and TypeScript. It allows recruiters to post and manage jobs and candidates to search and apply for roles. I built both the recruiter and candidate dashboards with clean, responsive UI and efficient state management to create a smooth user experience across devices.',
       technologies: [
         "Next.js",
         "Typescript",
         "Redux Toolkit",
-        "TailwindCSS",
+        "Tailwind CSS",
         "Axios",
         "Shadcn UI",
       ],
@@ -125,22 +125,57 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/jobshub.webp",
+      image: "/jobDashboard.png",
       video:
         "",
     },
+
+  {
+      title: "GroceryMart",
+      href: "https://final-assesment-seven.vercel.app",
+      dates: "Jan 2026 - Jan 2026",
+      active: true,
+      description:
+        "GroceryMart a simple cart system inspired by quick-commerce apps like Blinkit. Users can add or remove products, change item quantity, apply discounts, and see the total price update instantly. The project focuses on managing cart state and creating a smooth shopping experience.Real-time cart updates and quantity changes are common features in modern e-commerce carts to keep totals accurate instantly.",
+      technologies: [
+        "Next.js",
+        "React.js",
+        "TypeScript",
+        "TailwindCSS",
+        "ShadcnUI",
+        "Redux Toolkit",
+        
+       
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://final-assesment-seven.vercel.app",
+          icon: <Icons.globe className="size-3" />,
+        },
+         {
+          type: "Source",
+          href: "https://github.com/Ritwik-cloud/finalAssesment",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/groceryMart.png",
+      video:
+        "",
+    },
+
     {
       title: "Medease",
       href: "",
       dates: "July 2025 - Oct 2025",
       active: true,
       description:
-        "Medease is a healthcare appointment booking platform where I led the React frontend team in building core user experiences. My primary responsibility was crafting the patient dashboard, focusing on responsive design, accessibility, and seamless backend integration. I collaborated with designers and backend developers to implement intuitive interfaces and real-time data interactions, applying modern React patterns and performance best practices.",
+        "MedEase is a healthcare appointment booking platform where I worked on the React frontend, mainly building the patient and doctor dashboard. I focused on creating a responsive and accessible UI while integrating the frontend with backend APIs to handle real-time appointment data and user interactions. Healthcare booking systems typically allow users to schedule, manage, and track appointments through interactive dashboards and responsive interfaces.",
       technologies: [
         "React.js",
         "Javascript",
         "Redux Toolkit",
-        "TailwindCSS",
+        "Tailwind CSS",
         "Axios",
         "Shadcn UI",
       ],
@@ -170,7 +205,7 @@ export const DATA = {
         "React.js",
         "Javascript",
         "Appwrite",
-        "TailwindCSS",
+        "Tailwind CSS",
         "Shadcn UI",
         "Framer Motion",
        
@@ -196,11 +231,11 @@ export const DATA = {
       dates: "Aug 2025 - Sep 2025",
       active: true,
       description:
-        "React_Hooks is a lightweight project built with React and Vite to explore and practice using React Hooks like useState, useEffect, and custom hook patterns. It helped me deepen my understanding of how hooks let functional components manage state and side effects more cleanly and efficiently without using class components.",
+        "Artica is a lightweight project built with React and Vite to explore and practice using React Hooks like useState, useEffect, and custom hook patterns. It helped me deepen my understanding of how hooks let functional components manage state and side effects more cleanly and efficiently without using class components.",
       technologies: [
         "React.js",
         "Javascript",
-        "TailwindCSS",
+        "Tailwind CSS",
         "Vite",
         "React Hooks"
        
@@ -221,6 +256,8 @@ export const DATA = {
       video:
         "",
     },
+    
+    
   ],
   hackathons: [
     {
